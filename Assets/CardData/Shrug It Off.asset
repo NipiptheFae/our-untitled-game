@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fa567859327c8644844c4c2feadfbb6, type: 3}
+  m_Name: Shrug It Off
+  m_EditorClassIdentifier: 
+  cardName: Shrug It Off
+  isUpgraded: 0
+  cardDescription: Gain 8 Block. Draw 1 card.
+  cardCost: 1
+  cardType: 2
